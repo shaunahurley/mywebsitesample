@@ -1,0 +1,2 @@
+#MyWebsite
+This is my first github project that I was able to put on here with GitBash. I'm following a tutorial and don't recommend using any of this code as there barely is any and all of it is pretty random.
